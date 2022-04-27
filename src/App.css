@@ -52,12 +52,12 @@ p{padding-top: 30px;
 }
 .setlogo{
   padding-top: 10px;
-  background-color: chartreuse;
+  background-color: rgb(156, 154, 175);
   width: 100px;
   height: 100px;
 }
 .colorerow{
-  background-color: aqua;
+  background-color: rgb(6, 36, 36);
 }
 .ColortCol{
 background-color: coral;
