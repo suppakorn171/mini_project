@@ -64,16 +64,16 @@ const deleteCardPost = (id) =>{
       
         <MDBCardBody>
           
-          <MDBCardTitle>อาหารตามสั่ง</MDBCardTitle>
+          <MDBCardTitle>Please Add Your Shirt</MDBCardTitle>
           
           <div  class="md-form">
-            ชื่อเมนู
+            Name: 
            </div>
            <input type="text" name="name" id="form1" class="form-control" onChange={(e)=> setName(e.target.value)}/> 
 
             <br></br>
           <div  class="md-form">
-          รายละเอียด
+          Detail : 
             </div>
           <br></br>
           <input type="text" text="text" id="form1" class="form-control" onChange={(e)=> settext(e.target.value)}/> 

@@ -1,0 +1,42 @@
+.fixOmlet{
+    height: 164px;
+
+}
+.fixSuki{
+    height: auto;
+
+}
+.fixKarpaw{
+    height: 164px;
+
+}
+.fixNP{
+    height: 215px;
+    width: 310px;
+
+}
+.fixRNMG{
+    
+    height: 215px;
+    width: 310px;
+}
+.fixMTK{
+    height: 240px;
+    width: 310px;
+}
+.Center{
+padding-left: 700px;
+}
+.text1{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.RowCard{
+    margin-left: 200px;
+}
+
+#bg-red{
+    color: rgb(247, 245, 245);
+    background-size: auto;
+}
